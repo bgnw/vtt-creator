@@ -1,0 +1,25 @@
+
+.vtt__section {
+    margin: 10px;
+    display: inline-block;
+}
+
+.vtt__section input,
+.vtt__section textarea {
+    background-color: var(--bg-20);
+    color: white;
+    outline: none;
+    border: hidden;
+    -webkit-appearance: none;
+    font-size: 19px;
+    padding: 5px;
+
+}
+.vtt__time-field {
+    width: 3ch;
+}
+
+.vtt__content-field {
+    display: block;
+    margin-top: 10px;
+}
